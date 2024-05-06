@@ -1,0 +1,113 @@
+body,html{
+    background-color: rgba(0, 238, 255, 0.255);
+    color: rgb(13, 0, 255);
+    width: 100%;
+}
+    
+.angel { 
+    color: black;
+    padding: 10px 15px 10px 15px;
+    margin: 10 px;
+    border: 2px solid white;
+}
+.padre{
+    color: white;
+    font-size: 75px;
+    text-align: center;
+    padding: 100px 120px 100px 120px;
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(https://www.leetdesk.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fleetdesk%2Fc5527f47-def9-433c-9cce-23f286dbfea2_Front.jpg%3Fauto%3Dcompress%2Cformat%26rect%3D0%2C374%2C4000%2C2250%26w%3D1920%26h%3D1080&w=3840&q=75);
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 800px
+}
+.hijo {
+    color: black;
+    margin: 0 auto;
+    padding: 110px 15px 30px 15px;
+    font-size:35px;
+    width: 400px;
+    margin-top: 35px;
+    border: solid white;
+}
+.hijo2 {
+    color: white;
+    margin: 0 auto;
+    padding: 110px 15px 30px 15px;
+    font-size:35px;
+    width: 80px;
+    height: 60px;
+    margin-top: 35px;
+    border: solid white;
+    display: inline-block;
+    margin-right: 20 px;
+}
+.hijo3 {
+    color: white;
+    margin: 0 auto;
+    padding: 80px 15px 80px 15px;
+    font-size:35px;
+    width: 80px;
+    height: 60px;
+    margin-top: 35px;
+    border: solid white;
+    display: inline-block;
+    margin-right: 20px;
+    float: right;
+}
+.hijo4 {
+    color: white;
+    margin: 0 auto;
+    padding: 110px 15px 30px 15px;
+    font-size:35px;
+    width: 80px;
+    height: 60px;
+    margin-top: 35px;
+    border: solid white;
+    display: inline-block;
+    margin-right: 20 px;
+}
+.padre2{
+    color: white;
+    font-size: 75px;
+    padding: 100px 120px 100px 120px;
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(https://st4.depositphotos.com/2836763/29818/i/450/depositphotos_298183698-stock-photo-server-room-data-center-backup.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 650px
+}
+.limpiar {
+    clear: auto
+}
+.contenedor{
+    width: 100%;
+    border: 2px solid black;
+    height: 600px;
+}
+.elemento{ 
+background-color: white;
+color: black;
+border: 2px solid black;
+width: 200px;
+}
+.elemento1{
+background-color: white;
+color: black;
+width: 200px;
+position: relative;
+left: 400px;
+top: 100px;
+}
+.elemento2{
+background-color: white;
+color: black;
+    width: 200px;
+}
+.elemento3{
+background-color: white;
+color: black;
+width: 200px;
+}    
